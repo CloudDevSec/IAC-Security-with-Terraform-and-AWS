@@ -15,4 +15,3 @@ This project demonstrates the provisioning of secure cloud infrastructure on AWS
 ### Prerequisites
 - AWS account with necessary permissions.
 - Terraform installed.
-- Checkov or Terrascan installed.
